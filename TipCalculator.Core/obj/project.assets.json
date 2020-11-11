@@ -11,7 +11,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "MvvmCross/7.1.2": {
+      "MvvmCross/6.4.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/MvvmCross.dll": {}
@@ -53,24 +53,26 @@
         "runtime.json"
       ]
     },
-    "MvvmCross/7.1.2": {
-      "sha512": "1tYkYslR8c7Dp/3itlx8+djBp+cim/ieS1Xp+d/waL0Yrl3H4HGmqxSm89yz/Ts+H9pmrS5DeKpOb+HUOzaERQ==",
+    "MvvmCross/6.4.1": {
+      "sha512": "SvV1SKvNnFwVDg1r2BWI4x1bXXzqNj2OsbEEw8W/Mvw2AbfzG9xIjOO6HBbtxVxM6vc3riWUcO5vvSiBeTeuTA==",
       "type": "package",
-      "path": "mvvmcross/7.1.2",
+      "path": "mvvmcross/6.4.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE",
-        "icon.png",
         "lib/monoandroid10.0/MvvmCross.dll",
         "lib/monoandroid10.0/MvvmCross.pdb",
         "lib/monoandroid10.0/MvvmCross.xml",
+        "lib/monoandroid90/MvvmCross.dll",
+        "lib/monoandroid90/MvvmCross.pdb",
+        "lib/monoandroid90/MvvmCross.xml",
         "lib/net461/MvvmCross.dll",
         "lib/net461/MvvmCross.pdb",
         "lib/net461/MvvmCross.xml",
-        "lib/netcoreapp3.1/MvvmCross.dll",
-        "lib/netcoreapp3.1/MvvmCross.pdb",
-        "lib/netcoreapp3.1/MvvmCross.xml",
+        "lib/netcoreapp2.1/MvvmCross.dll",
+        "lib/netcoreapp2.1/MvvmCross.pdb",
+        "lib/netcoreapp2.1/MvvmCross.xml",
         "lib/netstandard2.0/MvvmCross.dll",
         "lib/netstandard2.0/MvvmCross.pdb",
         "lib/netstandard2.0/MvvmCross.xml",
@@ -93,7 +95,7 @@
         "lib/xamarinwatchos10/MvvmCross.dll",
         "lib/xamarinwatchos10/MvvmCross.pdb",
         "lib/xamarinwatchos10/MvvmCross.xml",
-        "mvvmcross.7.1.2.nupkg.sha512",
+        "mvvmcross.6.4.1.nupkg.sha512",
         "mvvmcross.nuspec",
         "readme.txt"
       ]
@@ -230,7 +232,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "MvvmCross >= 7.1.2",
+      "MvvmCross >= 6.4.1",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -278,7 +280,7 @@
         "dependencies": {
           "MvvmCross": {
             "target": "Package",
-            "version": "[7.1.2, )"
+            "version": "[6.4.1, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",

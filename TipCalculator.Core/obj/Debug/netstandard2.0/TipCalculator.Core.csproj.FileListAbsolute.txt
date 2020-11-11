@@ -3,3 +3,7 @@ C:\Users\45275\source\repos\MVVMCross\TipCalculator.Core\bin\Debug\netstandard2.
 C:\Users\45275\source\repos\MVVMCross\TipCalculator.Core\obj\Debug\netstandard2.0\TipCalculator.Core.csprojAssemblyReference.cache
 C:\Users\45275\source\repos\MVVMCross\TipCalculator.Core\obj\Debug\netstandard2.0\TipCalculator.Core.AssemblyInfoInputs.cache
 C:\Users\45275\source\repos\MVVMCross\TipCalculator.Core\obj\Debug\netstandard2.0\TipCalculator.Core.AssemblyInfo.cs
+C:\Users\45275\source\repos\MVVMCross\TipCalculator.Core\bin\Debug\netstandard2.0\TipCalculator.Core.pdb
+C:\Users\45275\source\repos\MVVMCross\TipCalculator.Core\obj\Debug\netstandard2.0\TipCalculator.Core.dll
+C:\Users\45275\source\repos\MVVMCross\TipCalculator.Core\obj\Debug\netstandard2.0\TipCalculator.Core.pdb
+C:\Users\45275\source\repos\MVVMCross\TipCalculator.Core\obj\Debug\netstandard2.0\TipCalculator.Core.csproj.CoreCompileInputs.cache

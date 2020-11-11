@@ -44,7 +44,7 @@
           "dependencies": {
             "MvvmCross": {
               "target": "Package",
-              "version": "[7.1.2, )"
+              "version": "[6.4.1, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "476FROSDKn/Ygjk+nSnz7BXL8AQrIg1uIiVRhlIOn8UCy8fCSPjt3CgxWKZdhR4u2Aw1A9qDByXll7bd9Brraw==",
+  "dgSpecHash": "RBU9WgpZ0bB4qxHWz2UeL3NnrVpRyG4D4YZKhUQIjH6vCDStU1L/bx4BR4J8ekkKy6PCyVVwYbBFQ7S9QrmMNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\45275\\source\\repos\\MVVMCross\\TipCalculator.Core\\TipCalculator.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\45275\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\45275\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512",
+    "C:\\Users\\45275\\.nuget\\packages\\mvvmcross\\6.4.1\\mvvmcross.6.4.1.nupkg.sha512",
     "C:\\Users\\45275\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
